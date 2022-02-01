@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643701424 source:d:\kovacs erik xi b\kochgorbe\main.cpp
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
